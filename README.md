@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KevinVillalobos
 - 👀 I’m interested in ... DevNet, CyberSec, Cloud
 - 🌱 I’m currently learning ... Python,Linux and DevNet
-- 💞️ I’m looking to collaborate on ... Evoliving and developing projects, knowledge is what i seek
+- 💞️ I’m looking to collaborate on ... Evolving and developing projects, knowledge is what i seek
 - 📫 How to reach me ... kevinevillalobosnevarez@gmail.com
 <!---
 KevinVillalobos/KevinVillalobos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
